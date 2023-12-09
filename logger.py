@@ -9,4 +9,4 @@ logging.basicConfig(
         logging.FileHandler(filename='logs.log', mode='w'),
         logging.StreamHandler(sys.stdout)
     ]
-)
+) 
